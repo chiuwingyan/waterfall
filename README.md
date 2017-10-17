@@ -10,3 +10,5 @@ jquery的瀑布流插件，每个子元素宽度相同高度不同，在页面�
 ![2](https://github.com/chiuwingyan/waterfall/blob/master/images/w2.png)
 ![3](https://github.com/chiuwingyan/waterfall/blob/master/images/w3.png)
 ![4](https://github.com/chiuwingyan/waterfall/blob/master/images/w4.png)
+
+[demo](https://chiuwingyan.github.io/waterfall/waterfall.html)
